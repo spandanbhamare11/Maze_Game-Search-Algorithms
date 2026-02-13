@@ -93,3 +93,38 @@ Each run may produce different results due to randomized enemy behavior.
 
 ---
 
+
+---
+
+## Applications
+
+- Game AI
+- Robot navigation
+- Path planning systems
+- Autonomous agents
+- AI learning and visualization
+
+---
+
+# Future Improvements
+
+- Alpha-Beta pruning
+- Multiple enemies
+- Larger maze
+- Difficulty levels
+- User-controlled player
+- Web-based version
+
+---
+
+# Author
+
+**Spandan Bhamare**  
+Computer Science Engineering Student
+
+---
+
+# License
+
+This project is created for educational purposes.
+
